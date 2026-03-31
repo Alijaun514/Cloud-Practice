@@ -7,7 +7,11 @@
 # while user > 12:
 #     print("loop execution time" ,user)
 #     user = user + 1
-value = 0
-while value < 3:
-    print("number time", value)
-    value = value + 1
+# value = 0
+# while value < 3:
+#     print("number time", value)
+#     value = value + 1
+user = 14
+while user < 20:
+    print("user name is Ali", user)
+    user = user + 1
